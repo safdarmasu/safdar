@@ -286,8 +286,8 @@ header .navbar a:hover{
 .footer{
     padding:2.5rem;
     font-size: 2rem;
-    color:#000000;
-    /* background: ; */
+    color:#ffffff;
+     background: rgb(0, 0, 0) ; 
     text-align: center;
 }
 
